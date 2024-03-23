@@ -1,6 +1,10 @@
 # The Narrow Trail
 
 > A [Learning TypeScript > Unions and Literals](https://learning-typescript.com/unions-and-literals) 🍲 entree project.
+>
+> - 문제의 요구사항을 이해하기 어려웠다.
+> - 왜 undefined 를 사용하고 할당해야 하는지 모르겠다.
+> - 반복하는 횟수가 지정되있으면 while 문보다 for 문을 사용하자.
 
 Greetings, wilderness pioneers.
 You've come to most traitorous part of your journey west: the Narrow Trail.
